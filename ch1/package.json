@@ -1,0 +1,12 @@
+{
+  "name": "ch1",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "node ./main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
